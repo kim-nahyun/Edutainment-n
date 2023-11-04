@@ -24,3 +24,5 @@ public class ExampleInstrumentedTest {
         assertEquals("org.koreait.edutainment", appContext.getPackageName());
     }
 }
+
+1.태연아 연결되었니
