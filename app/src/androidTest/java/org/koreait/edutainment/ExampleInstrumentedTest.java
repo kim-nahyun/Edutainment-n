@@ -24,5 +24,3 @@ public class ExampleInstrumentedTest {
         assertEquals("org.koreait.edutainment", appContext.getPackageName());
     }
 }
-
-print("hi")//
