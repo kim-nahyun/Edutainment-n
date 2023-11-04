@@ -25,4 +25,4 @@ public class ExampleInstrumentedTest {
     }
 }
 
-1.태연아 연결되었니
+//연결?//
