@@ -25,4 +25,4 @@ public class ExampleInstrumentedTest {
     }
 }
 
-//연결?//
+print("hi")
